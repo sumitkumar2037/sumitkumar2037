@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shaw2037
-- 👀 I’m interested in Design and Web Development...
-- 🌱 I’m currently learning  Server-side Development with NodeJS, Express and MongoDB....
-- 🎯 Current Goal: Building a complete website including frontend and backend.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence and also interested in design and web development .
+- 🎯 Current Goal: Building a complete website including frontend and backend that will predict the result based on my implemented machine learning algorithms.
 - 🌻 Open to Collaboration
 - 📫 contact me at: sumitshaw2037@gmail.com
 
