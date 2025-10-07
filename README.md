@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sumitshaw2037@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1E9Y1bsZdBpgCJIv6E7cQIZwnzb0QRCwB/view?usp=sharing](https://drive.google.com/file/d/1Xo9vyUUXL6AhyAH1nYfGhltZjAD9Opq-/view?usp=sharing)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1E9Y1bsZdBpgCJIv6E7cQIZwnzb0QRCwB/view?usp=sharing](https://drive.google.com/file/d/1Xo9vyUUXL6AhyAH1nYfGhltZjAD9Opq-/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
